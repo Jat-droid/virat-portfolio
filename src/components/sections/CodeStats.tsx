@@ -11,7 +11,7 @@ export const CodeStats = () => {
  
   const stats = {
     leetcode: {
-      total: 3817,
+      total: 49,
       easy: 23,
       medium: 23, 
       hard: 3,
