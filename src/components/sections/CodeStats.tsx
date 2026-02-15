@@ -11,10 +11,10 @@ export const CodeStats = () => {
  
   const stats = {
     leetcode: {
-      total: 49,
-      easy: 23,
-      medium: 23, 
-      hard: 3,
+      total: 71,
+      easy: 29,
+      medium: 37, 
+      hard: 5,
     },
     neetcode: {
       current: 75,
